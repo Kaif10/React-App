@@ -7,14 +7,14 @@ step 2: Got to the desired directory where you have cloned the app and run:
 
 ```
 npm install 
-#this will install node modules
+// this will install node modules
 ```
 
 Step 3: Run:
 
 ```
 npm start 
-#this will start the app in your local server
+// this will start the app in your local server
 ```
 
 ## A small demo: 
